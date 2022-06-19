@@ -20,7 +20,7 @@ All you have to do is go to Run-Buddy.com and click on the download page from th
 Simply create an account. Fill out the form on your home page. Click 'find my trainer', and you will be contacted by a representative within 1-2 business days.
 
 ## Contributing
-j
+I'd mostly like to thank my girlfriend and my cat for their food and cutenesss contributions
 
 
 ## License
@@ -32,12 +32,12 @@ https://choosealicense.com/licenses/apache-2.0/
 
 
 ## Tests
-j
+Tests are hard. Just make sure to study and you should be fine
 
 ## Questions
 
 If you have any questions regaurding this project, please feel free to contact me via:
 
-* Github: https://github.com/j
-* Email: j
+* Github: https://github.com/jdarville9
+* Email: joseph.darville9@gmail.com
   
