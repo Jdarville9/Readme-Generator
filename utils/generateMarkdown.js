@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
   } else {
     return `
 License link:
-https://choosealicense.com/licenses/${license}/
+https://choosealicense.com/licenses/${license.toLowerCase()}/
 `}
 }
 
