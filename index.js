@@ -110,7 +110,7 @@ const init = () => {
         return generateMarkdown(data);
     })
     .then(data => {
-        return writeToFile('README.md', data)
+        return writeToFile('./dist/README.md', data)
     })
 }
 

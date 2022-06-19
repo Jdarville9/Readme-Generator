@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/static/v1?label=license&message=Apache-2.0&color=blue)
 
-# j
+# README GENERATOR
 ## Description
-j
+This application creates a proffesional README.md based on your answers from terminal prompts using node.js
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
@@ -14,30 +14,43 @@ j
 6. [Questions](#questions)
 
 ## Installation
-j
+Copy this repository to your local files. Make sure to install NPM. Then, your README.md generator is ready to use.
 
 ## Usage
-j
+Open up a terminal in the root directory of the downloaded files. Into the command line, type in 'node index'. The terminal will then prompt you to answer a series of questions. Once completed, it will generate a README.md file with all of the answers you provided in the appropriate sections.
 
 ## Contributing
-j
+For this application I used the following resources:
+
+* Javascript
+* Node.js
+* NPM
+* Inquirer
+
 
 
 ## License
-This application is covered under Apache-2.0 licensing
+This application is covered under MIT licensing
 
 
 License link:
-https://choosealicense.com/licenses/apache-2.0/
+https://choosealicense.com/licenses/mit/
 
 
 ## Tests
-j
+There are no tests put in place save for running the application and assuring it works as directed.
 
 ## Questions
 
 If you have any questions regaurding this project, please feel free to contact me via:
 
-* Github: https://github.com/j
-* Email: j
+* Github: https://github.com/Jdarville9
+* Email: joseph.darville9@gmail.com
+
+![image](./images/Screen%20Shot%202022-06-19%20at%203.43.53%20PM.png)
+</br>
+</br>
+
+![image](./images/Screen%20Shot%202022-06-19%20at%203.44.38%20PM.png)
+
   
